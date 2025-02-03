@@ -1,10 +1,14 @@
-## Hi there 👋
+## hi, im bilal 👋
 
+currently studying computer science at Virginia Tech
+### socials: <a href="https://www.instagram.com/bilal.m.18/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a> <a href="https://www.linkedin.com/in/bilal-masood1/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
+
+please feel free to reach out on socials or at bilalm22@vt.edu
 <!--
 **Masterbheif117/Masterbheif117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+currently studying 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
