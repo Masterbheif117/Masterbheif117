@@ -1,7 +1,7 @@
 ## hi, im bilal 👋
 
 currently studying computer science at Virginia Tech
-### socials: <a href="https://www.instagram.com/bilal.m.18/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" height="25" /></a> <a href="https://www.linkedin.com/in/bilal-masood1/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
+### socials: <a href="https://www.linkedin.com/in/bilal-masood1/" target="blank"><img align="" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="25" /></a>
 
 please feel free to reach out on socials or at bilalm22@vt.edu
 <!--
